@@ -2,6 +2,10 @@
 
 The Toast Notification Bar is a simple web component built with HTML, CSS, and JavaScript that allows you to generate random notifications on the right side of the window. These notifications can display different types of messages such as info, success, and failure messages & it disppears after 3 seconds. It provides a user-friendly way to display non-intrusive notifications to users when they interact with the "Show Notification" button.
 
+## Demo
+
+![Demo](./asset/demo.gif)
+
 ## How to Use
 
 To use the Toast Notification Bar, follow these simple steps:
